@@ -1,0 +1,13 @@
+# Visual Studio / .NET build output
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+packages/
+
+# OS files
+.DS_Store
+Thumbs.db
