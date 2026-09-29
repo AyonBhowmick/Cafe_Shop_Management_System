@@ -65,11 +65,11 @@ Main tables: `Project_User`, `products2`, `orders`, `customers`
 
 | Welcome | Sign In |
 |---|---|
-| ![Welcome](screenshots/welcome.png) | ![Sign In](screenshots/login.png) |
+| ![Welcome](Cafe_Shop_GitHub_files/screenshots/welcome.png) | ![Sign In](Cafe_Shop_GitHub_files/screenshots/login.png) |
 | **Register** | **Admin Dashboard** |
-| ![Register](screenshots/register.png) | ![Dashboard](screenshots/dashboard.png) |
+| ![Register](Cafe_Shop_GitHub_files/screenshots/register.png) | ![Dashboard](Cafe_Shop_GitHub_files/screenshots/dashboard.png) |
 | **Add Cashier / Users** | **Team** |
-| ![Users](screenshots/add_cashier.png) | ![Team](screenshots/team.png) |
+| ![Users](Cafe_Shop_GitHub_files/screenshots/add_cashier.png) | ![Team](Cafe_Shop_GitHub_files/screenshots/team.png) |
 
 ---
 
